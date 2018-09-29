@@ -2,10 +2,34 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              xmlns:local="clr-namespace:HelloXaml" 
-             x:Class="HelloXaml.MainPage"
-             BackgroundColor="Red">
+             x:Class="HelloXaml.MainPage">
+    
+    
+    <StackLayout>
+        <Label x:Name="lblTimer" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+          FontSize="Large" FontAttributes="Bold" />
+    
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Button Text="Start" x:Name="btnTimer" Clicked="Handle_Clicked"></Button>
+           <!-- <Button Text="Stop" x:Name="btnStop"></Button>
+            <Button Text="Reset" x:Name="btnReset"></Button>-->
+        </StackLayout>
+    </StackLayout>
+    
+    
+<!--   
     <ContentPage.BackgroundColor>
-        <OnPlatform x:TypeArguments="Color" iOS="Red" Android="Blue" />
+        <OnPlatform x:TypeArguments="Color" iOS="Red">
+            <OnPlatform.Android>
+                <Color>
+                    <x:Arguments>
+                        <x:Double>1</x:Double>
+                        <x:Double>1</x:Double>
+                        <x:Double>0</x:Double>
+                    </x:Arguments>
+                </Color>
+            </OnPlatform.Android>
+        </OnPlatform>
     </ContentPage.BackgroundColor>
     
     <Label FontSize="Large" Text="Curso de Xamarin" HorizontalTextAlignment="Center">
@@ -13,5 +37,5 @@
             <OnPlatform x:TypeArguments="LayoutOptions" iOS="Center" Android="End" />
         </Label.VerticalOptions>
     </Label>
-   
+    -->
 </ContentPage>
