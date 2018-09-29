@@ -1,0 +1,11 @@
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/bin/Debug/netstandard2.0/HelloXaml.deps.json
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/bin/Debug/netstandard2.0/HelloXaml.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/bin/Debug/netstandard2.0/HelloXaml.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/HelloXaml.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/HelloXaml.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/HelloXaml.AssemblyInfo.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/HelloXaml.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/HelloXaml/HelloXaml/obj/Debug/netstandard2.0/HelloXaml.pdb
